@@ -1,23 +1,58 @@
-🚀 Rizky Riaadha Rismandana
-<div align="center"> <!-- Animasi typing dengan CSS inline --> <h3 style="font-size: 1.5rem; margin-bottom: 20px;"> <span style="color: #00d9ff; font-weight: bold;">Frontend Developer</span> <span style="color: #ff6b9d;">•</span> <span style="color: #9d4edd;">UI/UX Enthusiast</span> <span style="color: #ff6b9d;">•</span> <span style="color: #4ecdc4;">Design Lover</span> </h3> <!-- Badge animasi dengan keyframes sederhana --> <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 30px; flex-wrap: wrap;"> <div style="background: linear-gradient(45deg, #667eea 0%, #764ba2 100%); padding: 8px 16px; border-radius: 20px; color: white; font-weight: bold; animation: float 3s ease-in-out infinite;">🚀 Passionate Coder</div> <div style="background: linear-gradient(45deg, #f093fb 0%, #f5576c 100%); padding: 8px 16px; border-radius: 20px; color: white; font-weight: bold; animation: float 3s ease-in-out infinite 0.5s;">🎨 Creative Designer</div> <div style="background: linear-gradient(45deg, #4facfe 0%, #00f2fe 100%); padding: 8px 16px; border-radius: 20px; color: white; font-weight: bold; animation: float 3s ease-in-out infinite 1s;">💡 Problem Solver</div> </div> <style> @keyframes float { 0%, 100% { transform: translateY(0px); } 50% { transform: translateY(-10px); } } @keyframes glow { 0%, 100% { text-shadow: 0 0 10px #00d9ff; } 50% { text-shadow: 0 0 20px #00d9ff, 0 0 30px #00d9ff; } } .pulse-icon { animation: pulse 2s infinite; } @keyframes pulse { 0% { transform: scale(1); } 50% { transform: scale(1.1); } 100% { transform: scale(1); } } </style></div>
-✨ About Me
-<div align="center"> <!-- Profile dengan efek hover --> <div style="position: relative; display: inline-block;"> <div style="width: 150px; height: 150px; border-radius: 50%; background: linear-gradient(45deg, #667eea, #764ba2, #f093fb); padding: 5px; margin: 0 auto 20px; animation: rotate 20s linear infinite;"> <div style="width: 100%; height: 100%; border-radius: 50%; background: #0d1117; display: flex; align-items: center; justify-content: center; color: white; font-size: 3rem;"> 🚀 </div> </div> </div>
-@keyframes rotate {
-from { transform: rotate(0deg); }
-to { transform: rotate(360deg); }
-}
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=7C7CFF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Loopkyy.;Frontend+Dev+%26+UI+Designer.;PHP+%7C+React+%7C+Laravel" />
+</p>
 
-<!-- Deskripsi dengan animasi typing --> <div style="max-width: 800px; margin: 0 auto 40px;"> <p style="font-size: 1.1rem; line-height: 1.6; color: #c9d1d9;"> Seorang pengembang frontend yang bersemangat dengan ketertarikan kuat pada desain UI/UX. Saya menikmati proses mengubah mockup sederhana menjadi website yang berfungsi penuh. Selalu mencari peluang untuk berkolaborasi dan belajar hal baru! </p> </div></div>
-🌟 Featured Highlights
-<!-- Grid dengan efek hover --><div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin: 40px 0;"> <div style="background: linear-gradient(145deg, #161b22, #0d1117); padding: 25px; border-radius: 15px; border-left: 4px solid #00d9ff; transition: transform 0.3s ease;"> <div style="font-size: 2rem; margin-bottom: 15px;">🤝</div> <h3 style="color: #00d9ff; margin-bottom: 10px;">Looking to Collaborate On</h3> <p style="color: #8b949e;">UI/UX design projects or frontend development tasks</p> </div> <div style="background: linear-gradient(145deg, #161b22, #0d1117); padding: 25px; border-radius: 15px; border-left: 4px solid #9d4edd; transition: transform 0.3s ease;"> <div style="font-size: 2rem; margin-bottom: 15px;">🧠</div> <h3 style="color: #9d4edd; margin-bottom: 10px;">Looking for Help With</h3> <p style="color: #8b949e;">Improving my backend and API integration skills</p> </div> <div style="background: linear-gradient(145deg, #161b22, #0d1117); padding: 25px; border-radius: 15px; border-left: 4px solid #4ecdc4; transition: transform 0.3s ease;"> <div style="font-size: 2rem; margin-bottom: 15px;">🌱</div> <h3 style="color: #4ecdc4; margin-bottom: 10px;">Currently Learning</h3> <p style="color: #8b949e;">JavaScript, GitHub Pages, and RESTful APIs</p> </div> <div style="background: linear-gradient(145deg, #161b22, #0d1117); padding: 25px; border-radius: 15px; border-left: 4px solid #f5576c; transition: transform 0.3s ease;"> <div style="font-size: 2rem; margin-bottom: 15px;">😄</div> <h3 style="color: #f5576c; margin-bottom: 10px;">Fun Fact</h3> <p style="color: #8b949e;">I enjoy turning simple mockups into real, functioning websites!</p> </div></div><style> div[style*="background: linear-gradient(145deg"]:hover { transform: translateY(-10px); box-shadow: 0 10px 30px rgba(0, 217, 255, 0.2); } </style>
-💻 Tech Stack
-<!-- Tech stack dengan animasi --><div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 40px 0;"> <div class="pulse-icon"> ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) </div> <div class="pulse-icon" style="animation-delay: 0.2s;"> ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) </div> <div class="pulse-icon" style="animation-delay: 0.4s;"> ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) </div> <div class="pulse-icon" style="animation-delay: 0.6s;"> ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) </div> <div class="pulse-icon" style="animation-delay: 0.8s;"> ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) </div> <div class="pulse-icon" style="animation-delay: 1s;"> ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) </div> <div class="pulse-icon" style="animation-delay: 1.2s;"> ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) </div></div>
-📊 GitHub Analytics
-<!-- Stats grid dengan efek --><div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 40px 0;"> <div style="background: #0d1117; padding: 20px; border-radius: 15px; border: 1px solid #30363d;"> <h3 style="color: #00d9ff; margin-bottom: 15px;">📈 GitHub Stats</h3> <img src="https://github-readme-stats.vercel.app/api?username=loopkyy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&show_icons=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff" alt="GitHub Stats" style="width: 100%;"> </div> <div style="background: #0d1117; padding: 20px; border-radius: 15px; border: 1px solid #30363d;"> <h3 style="color: #9d4edd; margin-bottom: 15px;">🔥 Streak Stats</h3> <img src="https://github-readme-streak-stats.herokuapp.com/?user=loopkyy&theme=dark&hide_border=false&background=0d1117&stroke=00d9ff&ring=9d4edd&fire=ff6b9d&currStreakNum=c9d1d9&sideNums=00d9ff&currStreakLabel=ff6b9d&dates=8b949e" alt="Streak Stats" style="width: 100%;"> </div> <div style="background: #0d1117; padding: 20px; border-radius: 15px; border: 1px solid #30363d;"> <h3 style="color: #4ecdc4; margin-bottom: 15px;">💻 Top Languages</h3> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loopkyy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&bg_color=0d1117&title_color=4ecdc4&text_color=c9d1d9" alt="Top Languages" style="width: 100%;"> </div></div>
-🌐 Connect With Me
-<!-- Social links dengan efek hover --><div style="display: flex; justify-content: center; gap: 20px; margin: 40px 0; flex-wrap: wrap;"> <a href="https://www.instagram.com/ikyyy.kyzu/" style="text-decoration: none;"> <div style="display: flex; align-items: center; gap: 10px; padding: 12px 24px; background: linear-gradient(45deg, #E4405F, #FF0066); border-radius: 25px; color: white; font-weight: bold; transition: all 0.3s ease;"> <span>📷</span> <span>Instagram</span> </div> </a> <a href="https://www.linkedin.com/in/rizky-riaadha-rismandana-472173370" style="text-decoration: none;"> <div style="display: flex; align-items: center; gap: 10px; padding: 12px 24px; background: linear-gradient(45deg, #0077B5, #00A0DC); border-radius: 25px; color: white; font-weight: bold; transition: all 0.3s ease;"> <span>💼</span> <span>LinkedIn</span> </div> </a> <a href="mailto:riaadha.rizky@gmail.com" style="text-decoration: none;"> <div style="display: flex; align-items: center; gap: 10px; padding: 12px 24px; background: linear-gradient(45deg, #D14836, #FF6B6B); border-radius: 25px; color: white; font-weight: bold; transition: all 0.3s ease;"> <span>✉️</span> <span>Email Me</span> </div> </a></div><style> a div:hover { transform: translateY(-5px) scale(1.05); box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3); } </style>
-🏆 GitHub Trophies
-<div align="center" style="margin: 40px 0;"> <img src="https://github-profile-trophy.vercel.app/?username=loopkyy&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" style="width: 100%; max-width: 800px;"> </div>
-✨ Special Thanks
-<div align="center" style="margin: 60px 0 20px; padding: 30px; background: linear-gradient(45deg, rgba(0, 217, 255, 0.1), rgba(157, 78, 221, 0.1)); border-radius: 20px;"> <h3 style="color: #00d9ff; margin-bottom: 20px; animation: glow 2s ease-in-out infinite;">✨ Thanks for Visiting! ✨</h3> <p style="color: #c9d1d9; font-size: 1.1rem;"> "Code is like humor. When you have to explain it, it's bad." - Cory House </p> <!-- Visitor counter --> <div style="margin-top: 20px;"> <img src="https://visitcount.itsvg.in/api?id=loopkyy&icon=5&color=0" alt="Visitor Counter" /> </div></div>
-<div align="center" style="margin-top: 40px; color: #8b949e; font-size: 0.9rem;"> <p>Made with ❤️ using Markdown & GitHub Flavored Markdown</p> <p>Last Updated: November 2024</p> </div>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
+</p>
+
+---
+
+### 👋 About Me
+- 🎨 UI/UX & Frontend focused
+- 🧠 Currently leveling up **Backend & REST API**
+- 🤝 Open for collaboration on **Web & Design projects**
+- ⚡ Gen-Z dev who loves clean UI & modern stack
+
+---
+
+### 🛠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,js,react,laravel,mysql,bootstrap,tailwind,figma,canva&perline=5" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+<p align="center">
+  <a href="https://instagram.com/ikyyy.kyzu">
+    <img src="https://img.shields.io/badge/Instagram-111?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
+  </a>
+  <a href="https://linkedin.com/in/rizky-riaadha-rismandana-472173370">
+    <img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+  </a>
+  <a href="mailto:riaadha.rizky@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-111?style=for-the-badge&logo=gmail&logoColor=D14836"/>
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=loopkyy&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loopkyy&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <i>"Design first. Code smart. Keep evolving."</i>
+</p>
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=loopkyy&icon=5&color=6" />
+</p>
